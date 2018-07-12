@@ -6,5 +6,5 @@ image_resource:
   source: {repository: ubuntu} 
 run: 
   path: echo 
-  args: [Hello World!] 
+  args: [Hello World! Gary] 
 
